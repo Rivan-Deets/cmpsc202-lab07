@@ -171,4 +171,3 @@ Therefore, the final answer is:
 \boxed{\text{Pack 3 copies of Item 2 for a maximum value of }15}
 ]
 
-Note that Part 3 includes a third item, but Part 5 explicitly asks you to use only Items 1 and 2. If Item 3 were also included in Part 5, the result would be different because Item 3 has value (3) for weight (1).
